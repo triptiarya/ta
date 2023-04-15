@@ -1,7 +1,7 @@
 # Site settings
-title: ART
+title: T.ARYA
 email: "t.arya2001.ta@gmail.com"
-description: "Personal Website / Art Portfolio"
+description: "Personal Website / Art Journal"
 url: "https://triptiarya.github.io"
 baseurl: "/ta"
 facebook_username: ""
@@ -18,7 +18,7 @@ owner:
   name:   Tripti Arya
   avatar: avatar.png
   favicon: favicon.ico
-  info: Art Showcase
+  info:
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
